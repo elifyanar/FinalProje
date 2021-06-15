@@ -16,5 +16,6 @@ namespace Business.Constants
         public static string ProductCountOfCategoryError = "Ürün sayısı aşıldı";
         public static string ProductNameAlreadyExists = "Ürün ismi mevcut";
         public static string CategoryLimitExceded = "Kategori limiti açıldığı için yeni ürün eklenemiyor.";
+        public static string AuthorizationDenied = "Yetkiniz yok.";
     }
 }
